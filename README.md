@@ -28,10 +28,7 @@ Olá, sou Iago Barcelos, sou desenvolvedor web e seja bem vindo ao meu espaço n
  [![My Skills](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev)
 
 ## O que estou estudando atualmente
-- TypeScript no back-end
-- Sequelize
-- POO
-- Python
+- Java
 
 ## Contato
 - 📧 Email: [iago.cmpb@gmail.com]
