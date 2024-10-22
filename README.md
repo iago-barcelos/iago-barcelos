@@ -21,13 +21,18 @@ Olá, sou Iago Barcelos, sou desenvolvedor web e seja bem vindo ao meu espaço n
 
  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev)
 
-## O que estou estudando atualmente
+
+
+## O que estou estudando/desenvolvendo atualmente
 - Java
 
 ## Contato
